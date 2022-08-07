@@ -1,0 +1,34 @@
+2022-08-07 17:19:57,155 [LOG] [INFO] [src/configuration.cc:Configuration:35] load myConf.conf success.
+2022-08-07 17:19:57,160 [LOG] [INFO] [src/configuration.cc:Configuration:45] load stop_words.txt success.
+2022-08-07 17:20:00,668 [LOG] [INFO] [src/searchEngineServer.cc:start:53] offline part not ready, re-create.
+2022-08-07 17:20:00,668 [LOG] [INFO] [src/dictProducer.cc:DictProducer:30] load en_corpus success.
+2022-08-07 17:20:00,668 [LOG] [INFO] [src/dictProducer.cc:DictProducer:52] load cn_corpus success.
+2022-08-07 17:20:00,669 [LOG] [INFO] [src/dirScanner.cc:traverse:51] load xml files paths success.
+2022-08-07 18:43:19,277 [LOG] [INFO] [src/configuration.cc:Configuration:35] load myConf.conf success.
+2022-08-07 18:43:19,278 [LOG] [INFO] [src/configuration.cc:Configuration:45] load stop_words.txt success.
+2022-08-07 18:43:22,032 [LOG] [INFO] [src/searchEngineServer.cc:start:53] offline part not ready, re-create.
+2022-08-07 18:43:22,032 [LOG] [INFO] [src/dictProducer.cc:DictProducer:30] load en_corpus success.
+2022-08-07 18:43:22,032 [LOG] [INFO] [src/dictProducer.cc:DictProducer:52] load cn_corpus success.
+2022-08-07 18:43:22,032 [LOG] [INFO] [src/dirScanner.cc:traverse:51] load xml files paths success.
+2022-08-07 18:43:29,799 [LOG] [INFO] [src/pageLib.cc:create:43] parse xml files success.
+2022-08-07 18:43:29,833 [LOG] [INFO] [src/pageLib.cc:store:67] create ripepage.dat(redundant) success.
+2022-08-07 18:43:29,845 [LOG] [INFO] [src/pageLib.cc:store:77] create offset_table.dat(redundant) success.
+2022-08-07 18:45:31,969 [LOG] [INFO] [src/pageLibPreProcessor.cc:store:131] create ripepage.dat(cut-redundant) success.
+2022-08-07 18:45:31,985 [LOG] [INFO] [src/pageLibPreProcessor.cc:store:140] create offset_table.dat(cut-redundant) success.
+2022-08-07 18:45:43,452 [LOG] [INFO] [src/pageLibPreProcessor.cc:store:150] create invert_index_table.dat success.
+2022-08-07 18:46:40,402 [LOG] [INFO] [src/dictProducer.cc:store:122] create dict.dat success.
+2022-08-07 18:46:40,402 [LOG] [INFO] [src/searchEngineServer.cc:start:71] online part start.
+2022-08-07 18:46:40,599 [LOG] [INFO] [src/dictProducer.cc:store:136] create index_table.dat success.
+2022-08-07 18:48:06,132 [LOG] [INFO] [src/searchEngineServer.cc:onConnection:93] °#FÞ÷U has connected !
+2022-08-07 18:48:10,937 [LOG] [INFO] [src/searchEngineServer.cc:onClose:117] °#FÞ÷U has closed !
+2022-08-07 18:48:12,025 [LOG] [INFO] [src/searchEngineServer.cc:onConnection:93] °#FÞ÷U has connected !
+2022-08-07 18:48:13,337 [LOG] [INFO] [src/searchEngineServer.cc:onClose:117] °#FÞ÷U has closed !
+2022-08-07 18:48:14,498 [LOG] [INFO] [src/searchEngineServer.cc:onConnection:93] °#FÞ÷U has connected !
+2022-08-07 18:48:27,842 [LOG] [INFO] [src/searchEngineServer.cc:onClose:117] °#FÞ÷U has closed !
+2022-08-07 18:48:29,555 [LOG] [INFO] [src/searchEngineServer.cc:onConnection:93] °#FÞ÷U has connected !
+2022-08-07 18:48:45,025 [LOG] [INFO] [src/searchEngineServer.cc:onClose:117] °#FÞ÷U has closed !
+2022-08-07 18:48:51,819 [LOG] [INFO] [src/searchEngineServer.cc:onConnection:93] °#FÞ÷U has connected !
+2022-08-07 18:48:57,954 [LOG] [INFO] [src/searchEngineServer.cc:onMessage:110] receive client msg
+2022-08-07 18:48:57,988 [LOG] [INFO] [src/keyRecommander.cc:response:71] search keyWords from lib success
+2022-08-07 18:49:04,938 [LOG] [INFO] [src/searchEngineServer.cc:onMessage:110] receive client msg
+2022-08-07 18:49:04,949 [LOG] [INFO] [src/webPageResearcher.cc:doQuery:22] search web from lib success
